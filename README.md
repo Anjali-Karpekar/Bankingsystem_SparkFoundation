@@ -1,5 +1,5 @@
 # Bankingsystem_SparkFoundation
-This is the project made during the internship of The Spark Foundation
+This is the project made during the internship at The Spark Foundation
 Task assigned was as follows:
 
 Create a simple dynamic website which has the following specs.
